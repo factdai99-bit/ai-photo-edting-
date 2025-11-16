@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Photo Editor",
+  "description": "An intuitive web application that allows users to upload a photo and use a text prompt to describe desired edits. The app leverages the Gemini API to generate the edited image, which is displayed alongside the original for easy comparison and download.",
+  "requestFramePermissions": []
+}
